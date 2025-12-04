@@ -12,7 +12,7 @@ fontsize: 11pt
 #mainfont: Ubuntu # if you want to use a different locally installed font
 #CJKmainfont: Noto Sans CJK JP # locally installed Asian character font, must use with xelatex
 github: ericayee515 # github account
-orcid: 0000-0002-1825-0097 # orcid identifier
+# orcid: 0000-0002-1825-0097 # orcid identifier
 #osf: ymqui # osf five character id
 #twitter: twitter # twitter handle
 web: quarto.org
@@ -25,20 +25,18 @@ validate-yaml: false
 csl: apa-cv.csl
 ---
 
-# Employment
-
-<!-- *Arthur Guinness & Son* -->
-
-<!-- Chief Brewer (Park Royal) \hfill 1935-1937 -->
-
-<!-- Researcher (Dublin) \hfill 1899-1935 -->
-
 # Education
 
-*University of California, Los Angeles* \hfill 2022-Current \newline B.S. Statistics and Data Science
+*University of California, Los Angeles* \hfill Sep 2022 - Jun 2026 \newline B.S. Statistics and Data Science
 
 # Work Experience
 
-
+*Northrop Grumman Corporation* \hfill Jun 2024 - Oct 2024 \newline Material Cost Management Intern, F-35 Aeronautics Systems
 
 # Relevant Coursework / Projects
+
+Intro to Probability, Intro to Mathematical Statistics, Linear Models, Intro to 
+Data Analysis and Regression, Intro to Statistical Models and Data Mining, Intro
+to Computational Statistics with R, Intro to Computation and Optimization for Statistics, Intro to Monte Carlo Methods, Statistical Consulting
+
+
