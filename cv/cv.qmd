@@ -40,3 +40,6 @@ Data Analysis and Regression, Intro to Statistical Models and Data Mining, Intro
 to Computational Statistics with R, Intro to Computation and Optimization for Statistics, Intro to Monte Carlo Methods, Statistical Consulting
 
 
+
+
+
